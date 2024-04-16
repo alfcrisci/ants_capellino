@@ -9,7 +9,7 @@ import imutils
 
 filename="cet2.mp4"
 
-# parametri da aggiustare
+# parametri da aggiustare in funzione della telecamera raspberry
 
 MinCountourArea = 80  #Adjust ths value according to your usage
 BinarizationThreshold = 35  #Adjust ths value according to your usage
